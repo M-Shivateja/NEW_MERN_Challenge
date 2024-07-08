@@ -1,0 +1,14 @@
+.statistics {
+  margin-top: 20px;
+}
+
+.stats-box {
+  background-color: #f9d776;
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.stats-box p {
+  margin: 10px 0;
+}
